@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="92px">
       <a href="/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/137787915?v=4" alt="혜린 프로필" />
+        <img src=https://avatars.githubusercontent.com/u/90893364?v=4" alt="혜린 프로필" />
       </a>
     </td>
      
@@ -55,7 +55,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="/" target="_blank">
+      <a href="https://github.com/seolhyelin" target="_blank">
         혜린
       </a>
     </td>
@@ -97,10 +97,10 @@
 
 2. **학습 공유**
 
-   - 본인의 이름으로 된 폴더 내에 학습 내용을 정리합니다 (예: /syjang/chapter1.md)
+   - 본인의 이름으로 된 폴더 내에 학습 내용을 정리합니다 (예: /seyeong/chapter1/데이터\_타입.md)
    - 도서의 구성에 따라 챕터별로 또는 자유롭게 내용을 정리합니다
    - PR은 도서 별로 특성에 맞는 제목으로 작성하며, 도서 레포지토리 README.md를 참고합니다.
-   - 다른 스터디원의 PR에 적극적으로 피드백을 남깁니다
+   - 모임 시, 다른 스터디원의 PR에 적극적으로 피드백을 남깁니다
 
 3. **토론 문화**
 
