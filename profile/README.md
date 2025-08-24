@@ -148,7 +148,7 @@
       </a>
     </td>
     <td><strong>일정</strong></td>
-    <td>2025.09.01 ~</td>
+    <td>2025.08.25 ~</td>
   </tr>
   <tr>
     <td><strong>Repository</strong></td>
