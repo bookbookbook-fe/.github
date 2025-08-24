@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td><strong>진행상황</strong></td>
-    <td><img src="https://img.shields.io/badge/In_Progress-B4E4FF?style=flat-square&style=for-the-badge"/>
+    <td><img src="https://img.shields.io/badge/Paused-FFC0CB?style=flat-square&style=for-the-badge"/>
 
 </td>
   </tr>
@@ -139,35 +139,66 @@
   </tr>
 </table>
 
-## 📌 스터디 규칙
+### 3. Clean Architecture
 
-**🤝 참여 방식**
+<table>
+  <tr>
+    <td rowspan="3" width="180px">
+    <a href="https://product.kyobobook.co.kr/detail/S000001033082" alt="Clean Architecture" width="180" height="213"><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966262472.jpg" width="180" height="213"/></a> 
+      </a>
+    </td>
+    <td><strong>일정</strong></td>
+    <td>2025.09.01 ~</td>
+  </tr>
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><a href="https://github.com/bookbookbook-fe/clean-architecture">clean-architecture</a></td>
+  </tr>
+  <tr>
+    <td><strong>진행상황</strong></td>
+    <td><img src="https://img.shields.io/badge/In_Progress-B4E4FF?style=flat-square&style=for-the-badge"/>
 
-- 매주 정해진 분량을 읽고 각자의 생각을 공유합니다
-- 챕터 완료 시 회의실에서 오프라인으로 만나 회고를 진행합니다
-- 불가피하게 참석이 어려운 경우 미리 공유해주세요
+</td>
+  </tr>
+</table>
 
-**📝 학습 공유**
+#### 스터디원
 
-- 본인의 이름으로 된 폴더 내에 학습 내용을 정리합니다 (예: /seyeong/chapter1/데이터\_타입.md)
-- 도서의 구성에 따라 챕터별로 또는 자유롭게 내용을 정리합니다
-- PR은 도서 별로 특성에 맞는 제목으로 작성하며, 도서 레포지토리 README.md를 참고합니다.
-- 모임 시, 다른 스터디원의 PR에 적극적으로 피드백을 남깁니다
-
-**💭 토론 문화**
-
-- 서로 존중하는 태도로 의견을 나눕니다
-- 질문과 토론을 장려하며, 모르는 것을 부끄러워하지 않습니다
-- 피드백은 근거나 레퍼런스와 함께 공유합니다
-
-**⏰ 일정 관리**
-
-- 스터디는 매주 월요일, 점심시간에 진행합니다
-- 회고는 챕터 완료 후 별도로 시간을 정해 진행합니다
-- 일정 변동이 필요한 경우 최소 하루 전에 공유해주세요
-
-**📚 자료 관리**
-
-- 모든 학습 자료와 토론 내용은 이 레포지토리에 기록합니다
-- 회고 내용도 간단하게 정리하여 공유합니다
-- 유용한 레퍼런스나 추가 학습 자료도 함께 공유해주세요
+<table>
+  <tr>
+    <td align="center" width="92px">
+      <a href="https://github.com/sooyoung159" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/68948735?v=4" alt="강수영 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/youngme92" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/50010735?v=4" alt="양영모 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/jangseyeong" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/137787915?v=4" alt="장세영 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="/" target="_blank">
+        <img src=https://avatars.githubusercontent.com/u/88872409?v=4" alt="전형호 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sooyoung159" target="_blank">강수영</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/youngme92" target="_blank">양영모</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jangseyeong" target="_blank">장세영</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kamja44" target="_blank">전형호</a>
+    </td>
+  </tr>
+</table>
